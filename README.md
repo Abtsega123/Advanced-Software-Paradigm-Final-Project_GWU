@@ -63,5 +63,8 @@ It showcases modern software engineering patterns, clean architecture, and cross
 
 ---
 
-## 📂 Project Structure
+ ## Contributors
+- ABTSEGA TESFAYE CHUFARE
+- NITHIN ARASANAGHATTA MAHESHWARAPPA
+
 
