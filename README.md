@@ -1,7 +1,7 @@
 # Advanced-Software-Paradigm-Final-Project_GWU
 
 
-# 🎓 GWU ScholarXIV — Research Hub, Chat System & Plagiarism Detection  
+# 🎓 GWU-larXIV — Research Hub, Chat System & Plagiarism Detection  
 A unified academic platform built for **George Washington University** students and researchers.
 
 GWU ScholarXIV integrates **ArXiv paper browsing**, a **real-time chat system**, and a **private plagiarism checker**, offering an all-in-one workspace for academic collaboration and integrity.
